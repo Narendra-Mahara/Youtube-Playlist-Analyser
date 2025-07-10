@@ -3,7 +3,7 @@ import Search from "./Components/Search";
 
 const App = () => {
   return (
-    <div className="h-svh w-full bg-neutral-950 text-white">
+    <div className="min-h-svh w-full bg-neutral-950 text-white">
       <Header />
       <Search />
     </div>
